@@ -1,0 +1,9 @@
+{
+    "raw_file": "../network_with_clip/data/processed/merged_P-L-S_double_sno.tsv",
+    "final_file": "data/merged_seq/merged_P-L-S_double_sno_intaRNA.tsv",
+    "path":
+    {
+        "sequences": "data/sequences",
+        "final": "../network_with_clip/data/processed/merged_P-L-S_double_sno_intaRNA.tsv"
+    }
+}
